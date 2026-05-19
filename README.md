@@ -1,6 +1,7 @@
+# Currently working on it
 # Weather Dashboard SPA
 
-A responsive weather dashboard built using:
+A responsive weather dashboard built using 
 
 - HTML
 - CSS
