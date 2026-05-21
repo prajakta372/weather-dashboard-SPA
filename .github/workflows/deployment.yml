@@ -21,4 +21,4 @@ jobs:
           aws-region: ap-south-1
 
       - name: Deploy Website to S3
-        run: aws s3 sync . s3://YOUR_BUCKET_NAME --delete
+        run: aws s3 sync . s3://s3-demo-weather --delete
